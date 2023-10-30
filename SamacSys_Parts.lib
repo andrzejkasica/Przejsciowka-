@@ -1,0 +1,296 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 2x500p
+#
+DEF 2x500p F 0 40 Y Y 1 F N
+F0 "F" -95 130 60 H V C CNN
+F1 "2x500p" 255 -75 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+S -80 55 90 -55 0 1 0 N
+X ~ 1 -140 0 59 R 20 20 1 1 I
+X ~ 2 150 0 59 L 20 20 1 1 I
+X ~ 3 0 -115 59 U 20 20 1 1 I
+ENDDRAW
+ENDDEF
+#
+# FDV303N
+#
+DEF FDV303N Q 0 30 Y Y 1 F N
+F0 "Q" 450 150 50 H V L CNN
+F1 "FDV303N" 450 50 50 H V L CNN
+F2 "SOT96P237X111-3N" 450 -50 50 H I L CNN
+F3 "https://www.onsemi.com/pub/Collateral/FDV303N-D.PDF" 450 -150 50 H I L CNN
+F4 "FDV303N N-Channel MOSFET, 680 mA, 25 V, 3-Pin SOT-23 ON Semiconductor" 450 -250 50 H I L CNN "Description"
+F5 "1.11" 450 -350 50 H I L CNN "Height"
+F6 "onsemi" 450 -450 50 H I L CNN "Manufacturer_Name"
+F7 "FDV303N" 450 -550 50 H I L CNN "Manufacturer_Part_Number"
+F8 "512-FDV303N" 450 -650 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/FDV303N/?qs=FOlmdCx%252BAA1IyXspysHTkA%3D%3D" 450 -750 50 H I L CNN "Mouser Price/Stock"
+F10 "FDV303N" 450 -850 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/fdv303n/on-semiconductor?region=nac" 450 -950 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 300 -200 100 U 50 50 0 0 P
+X ~ 3 300 400 100 D 50 50 0 0 P
+C 250 100 150 0 1 10 N
+P 2 0 1 6 230 -20 230 20 N
+P 2 0 1 6 230 0 300 0 N
+P 2 0 1 6 230 80 230 120 N
+P 2 0 1 6 230 220 230 180 N
+P 2 0 1 6 300 100 230 100 N
+P 2 0 1 6 300 100 300 -100 N
+P 2 0 1 6 300 200 230 200 N
+P 2 0 1 6 300 200 300 300 N
+P 3 0 1 6 100 0 200 0 200 200 N
+P 4 0 1 10 230 100 270 120 270 80 230 100 F
+ENDDRAW
+ENDDEF
+#
+# LTC2051HVIMS8#PBF
+#
+DEF LTC2051HVIMS8#PBF IC 0 30 Y Y 1 F N
+F0 "IC" 1250 300 50 H V L CNN
+F1 "LTC2051HVIMS8#PBF" 1250 200 50 H V L CNN
+F2 "SOP65P490X110-8N" 1250 100 50 H I L CNN
+F3 "https://eu.mouser.com/datasheet/2/609/20512fd-1267907.pdf" 1250 0 50 H I L CNN
+F4 "Linear Technology LTC2051HVIMS8#PBF Zero Drift Op Amp, 3MHz, 3 V, 5 V, 8-Pin MSOP" 1250 -100 50 H I L CNN "Description"
+F5 "1.1" 1250 -200 50 H I L CNN "Height"
+F6 "Analog Devices" 1250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "LTC2051HVIMS8#PBF" 1250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "584-LTC2051HVIMS8PBF" 1250 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC2051HVIMS8PBF?qs=hVkxg5c3xu8XilCYpbuzng%3D%3D" 1250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "LTC2051HVIMS8#PBF" 1250 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ltc2051hvims8pbf/analog-devices?region=nac" 1250 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X OUT_A 1 0 0 200 R 50 50 0 0 P
+X -IN_A 2 0 -100 200 R 50 50 0 0 P
+X +IN_A 3 0 -200 200 R 50 50 0 0 P
+X V- 4 0 -300 200 R 50 50 0 0 P
+X +IN_B 5 1400 -300 200 L 50 50 0 0 P
+X -IN_B 6 1400 -200 200 L 50 50 0 0 P
+X OUT_B 7 1400 -100 200 L 50 50 0 0 P
+X V+ 8 1400 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+# MAX485CSA+T
+#
+DEF MAX485CSA+T IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "MAX485CSA+T" 850 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 850 100 50 H I L CNN
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf" 850 0 50 H I L CNN
+F4 "RS-422/RS-485 Interface IC Low-Power, Slew-Rate-Limited RS-485/RS-422 Transceivers" 850 -100 50 H I L CNN "Description"
+F5 "1.75" 850 -200 50 H I L CNN "Height"
+F6 "Maxim Integrated" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MAX485CSA+T" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "700-MAX485CSAT" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX485CSA%2bT?qs=LHmEVA8xxfYLnNxfn7yuwQ%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MAX485CSA+T" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/max485csat/maxim-integrated?region=nac" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X RO 1 0 0 200 R 50 50 0 0 P
+X ~RE 2 0 -100 200 R 50 50 0 0 P
+X DE 3 0 -200 200 R 50 50 0 0 P
+X DI 4 0 -300 200 R 50 50 0 0 P
+X GND 5 1000 -300 200 L 50 50 0 0 P
+X A 6 1000 -200 200 L 50 50 0 0 P
+X B 7 1000 -100 200 L 50 50 0 0 P
+X VCC 8 1000 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+# MAX660ESA+T
+#
+DEF MAX660ESA+T IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "MAX660ESA+T" 950 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 950 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/2/MAX660ESA+T.pdf" 950 0 50 H I L CNN
+F4 "Switching Voltage Regulators CMOS Monolithic Voltage Converter" 950 -100 50 H I L CNN "Description"
+F5 "1.75" 950 -200 50 H I L CNN "Height"
+F6 "Maxim Integrated" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MAX660ESA+T" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "700-MAX660ESAT" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX660ESA%2bT?qs=Mqkh4jHMT8xNVZqhr3q3%252BA%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+DRAW
+X FC 1 0 0 200 R 50 50 0 0 P
+X CAP+ 2 0 -100 200 R 50 50 0 0 P
+X GND 3 0 -200 200 R 50 50 0 0 P
+X CAP- 4 0 -300 200 R 50 50 0 0 P
+X OUT 5 1100 -300 200 L 50 50 0 0 P
+X LV 6 1100 -200 200 L 50 50 0 0 P
+X OSC 7 1100 -100 200 L 50 50 0 0 P
+X V+ 8 1100 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+# MCP100T-450I_TT
+#
+DEF MCP100T-450I_TT IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "MCP100T-450I_TT" 950 200 50 H V L CNN
+F2 "SOT96P237X112-3N" 950 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-19/DSA-360978.pdf" 950 0 50 H I L CNN
+F4 "Voltage Supervisor 4.375V Act.Low SOT23" 950 -100 50 H I L CNN "Description"
+F5 "1.12" 950 -200 50 H I L CNN "Height"
+F6 "Microchip" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MCP100T-450I/TT" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "579-MCP100T-450I/TT" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP100T-450I-TT?qs=JmwSjbzn2OKLuJ65Xt0Gjw%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MCP100T-450I/TT" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mcp100t-450itt/microchip-technology" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~RST 1 0 0 200 R 50 50 0 0 I
+X VDD 2 0 -100 200 R 50 50 0 0 W
+X VSS 3 1100 0 200 L 50 50 0 0 W
+P 5 0 1 6 200 100 900 100 900 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+# MCP3423-E_UN
+#
+DEF MCP3423-E_UN IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "MCP3423-E_UN" 950 200 50 H V L CNN
+F2 "SOP50P490X110-10N" 950 100 50 H I L CNN
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/22088c.pdf" 950 0 50 H I L CNN
+F4 "ADC 18-Bit 2-ch 2.048V I2C MSOP10" 950 -100 50 H I L CNN "Description"
+F5 "1.1" 950 -200 50 H I L CNN "Height"
+F6 "Microchip" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MCP3423-E/UN" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "579-MCP3423-E/UN" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP3423-E-UN?qs=87%2Fgv35YuOdJ0vQztXOEDw%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MCP3423-E/UN" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mcp3423-eun/microchip-technology?region=nac" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X CH1+ 1 0 0 200 R 50 50 0 0 P
+X CH1- 2 0 -100 200 R 50 50 0 0 P
+X VSS 3 0 -200 200 R 50 50 0 0 P
+X CH2+ 4 0 -300 200 R 50 50 0 0 P
+X CH2- 5 0 -400 200 R 50 50 0 0 P
+X VDD 6 1100 -400 200 L 50 50 0 0 P
+X SDA 7 1100 -300 200 L 50 50 0 0 P
+X SCL 8 1100 -200 200 L 50 50 0 0 P
+X ADR0 9 1100 -100 200 L 50 50 0 0 P
+X ADR1 10 1100 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+# MCP3424T-E_SL
+#
+DEF MCP3424T-E_SL IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "MCP3424T-E_SL" 950 200 50 H V L CNN
+F2 "SOIC127P600X175-14N" 950 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/dk/DKDS-14/279441.pdf" 950 0 50 H I L CNN
+F4 "Analog to Digital Converters - ADC 18B delta-sigma ADC dual Ch 4sps" 950 -100 50 H I L CNN "Description"
+F5 "1.75" 950 -200 50 H I L CNN "Height"
+F6 "Microchip" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MCP3424T-E/SL" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "579-MCP3424T-E/SL" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP3424T-E-SL?qs=87%2Fgv35YuOcOtmXR930Twg%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MCP3424T-E/SL" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mcp3424t-esl/microchip-technology?region=nac" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X CH1+ 1 0 0 200 R 50 50 0 0 P
+X CH1- 2 0 -100 200 R 50 50 0 0 P
+X CH2+ 3 0 -200 200 R 50 50 0 0 P
+X CH2- 4 0 -300 200 R 50 50 0 0 P
+X VSS 5 0 -400 200 R 50 50 0 0 P
+X VDD 6 0 -500 200 R 50 50 0 0 P
+X SDA 7 0 -600 200 R 50 50 0 0 P
+X SCL 8 1100 -600 200 L 50 50 0 0 P
+X ADR0 9 1100 -500 200 L 50 50 0 0 P
+X ADR1 10 1100 -400 200 L 50 50 0 0 P
+X CH3+ 11 1100 -300 200 L 50 50 0 0 P
+X CH3- 12 1100 -200 200 L 50 50 0 0 P
+X CH4+ 13 1100 -100 200 L 50 50 0 0 P
+X CH4- 14 1100 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -700 200 -700 200 100 N
+ENDDRAW
+ENDDEF
+#
+# NE555DR
+#
+DEF NE555DR IC 0 30 Y Y 1 F N
+F0 "IC" 1000 700 50 H V L CNN
+F1 "NE555DR" 1000 600 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1000 500 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/ne555.pdf" 1000 400 50 H I L CNN
+F4 "Single Precision Timer" 1000 300 50 H I L CNN "Description"
+F5 "1.75" 1000 200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1000 100 50 H I L CNN "Manufacturer_Name"
+F7 "NE555DR" 1000 0 50 H I L CNN "Manufacturer_Part_Number"
+F8 "1218414" 1000 -100 50 H I L CNN "RS Part Number"
+F9 "http://uk.rs-online.com/web/p/products/1218414" 1000 -200 50 H I L CNN "RS Price/Stock"
+F10 "NE555DR" 1000 -300 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ne555dr/texas-instruments" 1000 -400 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X GND 1 600 -800 200 U 50 50 0 0 B
+X TRIG 2 0 0 200 R 50 50 0 0 B
+X OUT 3 0 -200 200 R 50 50 0 0 B
+X RESET 4 500 600 200 D 50 50 0 0 B
+X CONT 5 1200 -300 200 L 50 50 0 0 B
+X THRES 6 1200 -200 200 L 50 50 0 0 B
+X DISCH 7 1200 0 200 L 50 50 0 0 B
+X VCC 8 700 600 200 D 50 50 0 0 B
+T 0 600 -100 50 0 0 1 555 Normal 0 C C
+P 5 0 1 6 200 400 1000 400 1000 -600 200 -600 200 400 N
+ENDDRAW
+ENDDEF
+#
+# NFM3DCC102R1H3L
+#
+DEF NFM3DCC102R1H3L C 0 30 Y Y 1 F N
+F0 "C" 1250 700 50 H V L CNN
+F1 "NFM3DCC102R1H3L" 1250 600 50 H V L CNN
+F2 "NFM3DCC102R1H3L" 1250 500 50 H I L CNN
+F3 "https://psearch.en.murata.com/capacitor/product/NFM3DCC102R1H3%23.html" 1250 400 50 H I L CNN
+F4 "Capacitor L=3.2mm W=1.25mm T=0.7mm" 1250 300 50 H I L CNN "Description"
+F5 "0.9" 1250 200 50 H I L CNN "Height"
+F6 "Murata Electronics" 1250 100 50 H I L CNN "Manufacturer_Name"
+F7 "NFM3DCC102R1H3L" 1250 0 50 H I L CNN "Manufacturer_Part_Number"
+F8 "81-NFM3DCC102R1H3L" 1250 -100 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/NFM3DCC102R1H3L?qs=soy9CRYaceddLXzJpnZqPA%3D%3D" 1250 -200 50 H I L CNN "Mouser Price/Stock"
+F10 "NFM3DCC102R1H3L" 1250 -300 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/nfm3dcc102r1h3l/murata-manufacturing?region=nac" 1250 -400 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X INPUT 1 0 0 200 R 50 50 0 0 P
+X GND_1 2 700 700 200 D 50 50 0 0 P
+X OUTPUT 3 1400 0 200 L 50 50 0 0 P
+X GND_2 4 700 -700 200 U 50 50 0 0 P
+P 5 0 1 6 200 500 1200 500 1200 -500 200 -500 200 500 N
+ENDDRAW
+ENDDEF
+#
+# USR-TCP232
+#
+DEF USR-TCP232 U 0 40 Y Y 1 F N
+F0 "U" 255 130 39 H V C CNN
+F1 "USR-TCP232" 300 -200 24 H V C CNN
+F2 "" 0 0 39 H I C CNN
+F3 "" 0 0 39 H I C CNN
+DRAW
+T 0 445 5 39 0 0 0 LAN Normal 0 C C
+S 0 240 500 -245 0 0 0 N
+S 500 70 390 -60 0 1 0 N
+X VDD:5V 1 -60 -215 59 R 24 24 1 1 I
+X VCC:3.3V 2 -60 -140 59 R 24 24 1 1 I
+X GND 3 -60 -70 59 R 24 24 1 1 I
+X RST 4 -60 0 59 R 24 24 1 1 I
+X TXD 5 -60 70 59 R 24 24 1 1 I
+X RXD 6 -60 140 59 R 24 24 1 1 I
+X CFG 7 -60 215 59 R 24 24 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
+

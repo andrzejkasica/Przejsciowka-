@@ -1,0 +1,206 @@
+Informacja: Przetwarzam symbol 'C101:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C102:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C103:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C104:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C105:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C106:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C107:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C201:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C202:Capacitor_Tantalum_SMD:CP_EIA-7260-38_AVX-R_Pad2.68x6.30mm_HandSolder'.
+Informacja: Przetwarzam symbol 'C203:Capacitor_Tantalum_SMD:CP_EIA-7260-38_AVX-R_Pad2.68x6.30mm_HandSolder'.
+Informacja: Przetwarzam symbol 'C204:Capacitor_Tantalum_SMD:CP_EIA-7260-38_AVX-R_Pad2.68x6.30mm_HandSolder'.
+Informacja: Przetwarzam symbol 'C205:Capacitor_Tantalum_SMD:CP_EIA-7260-38_AVX-R_Pad2.68x6.30mm_HandSolder'.
+Informacja: Przetwarzam symbol 'C206:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C207:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C208:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C209:Capacitor_Tantalum_SMD:CP_EIA-7260-38_AVX-R_Pad2.68x6.30mm_HandSolder'.
+Informacja: Przetwarzam symbol 'C210:Capacitor_Tantalum_SMD:CP_EIA-7260-38_AVX-R_Pad2.68x6.30mm_HandSolder'.
+Informacja: Przetwarzam symbol 'C211:Capacitor_Tantalum_SMD:CP_EIA-7260-38_AVX-R_Pad2.68x6.30mm_HandSolder'.
+Informacja: Przetwarzam symbol 'C212:Capacitor_Tantalum_SMD:CP_EIA-7260-38_AVX-R_Pad2.68x6.30mm_HandSolder'.
+Informacja: Przetwarzam symbol 'C213:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C214:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C301:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C302:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C303:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C304:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C305:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C306:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C307:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C308:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C310:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C311:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C312:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C501:Capacitors_THT:CP_Radial_D5.0mm_P2.00mm'.
+Informacja: Przetwarzam symbol 'C502:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C503:Capacitors_THT:CP_Radial_D5.0mm_P2.00mm'.
+Informacja: Przetwarzam symbol 'C504:Capacitors_THT:CP_Radial_D5.0mm_P2.00mm'.
+Informacja: Przetwarzam symbol 'C505:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C506:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'U202:TO_SOT_Packages_THT:TO-220-5_Horizontal_StaggeredType1'.
+Informacja: Przetwarzam symbol 'U203:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Informacja: Przetwarzam symbol 'U204:TO_SOT_Packages_THT:TO-220-5_Horizontal_StaggeredType1'.
+Informacja: Przetwarzam symbol 'U205:TO_SOT_Packages_THT:TO-220-5_Horizontal_StaggeredType1'.
+Informacja: Przetwarzam symbol 'U301:Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm'.
+Informacja: Przetwarzam symbol 'U302:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Informacja: Przetwarzam symbol 'U401:Moje:USR-TCP232'.
+Informacja: Przetwarzam symbol 'C601:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C602:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C603:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'C604:Capacitors_SMD:C_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'D201:Diodes_SMD:D_MELF_Handsoldering'.
+Informacja: Przetwarzam symbol 'D202:Diodes_SMD:D_MELF_Handsoldering'.
+Informacja: Przetwarzam symbol 'D203:Diodes_SMD:D_MELF_Handsoldering'.
+Informacja: Przetwarzam symbol 'D204:Diodes_SMD:D_MELF_Handsoldering'.
+Informacja: Przetwarzam symbol 'D205:Diodes_SMD:D_MELF_Handsoldering'.
+Informacja: Przetwarzam symbol 'D206:Diodes_SMD:D_MELF_Handsoldering'.
+Informacja: Przetwarzam symbol 'D207:Diodes_SMD:D_MELF_Handsoldering'.
+Informacja: Przetwarzam symbol 'D208:Diodes_SMD:D_MELF_Handsoldering'.
+Informacja: Przetwarzam symbol 'D301:Diodes_SMD:D_MELF_Handsoldering'.
+Informacja: Przetwarzam symbol 'D302:Diodes_SMD:D_MELF_Handsoldering'.
+Informacja: Przetwarzam symbol 'D303:Diodes_SMD:D_MELF_Handsoldering'.
+Informacja: Przetwarzam symbol 'D304:Diodes_SMD:D_MELF_Handsoldering'.
+Informacja: Przetwarzam symbol 'D305:TO_SOT_Packages_THT:TO-92_Molded_Narrow_Oval'.
+Informacja: Przetwarzam symbol 'W101:Measurement_Points:Measurement_Point_Round-TH_Big'.
+Informacja: Przetwarzam symbol 'D306:Diodes_SMD:D_MiniMELF_Handsoldering'.
+Informacja: Przetwarzam symbol 'D307:Diodes_SMD:D_MiniMELF_Handsoldering'.
+Informacja: Przetwarzam symbol 'D501:SMBJ28CA:DIOM4336X265N'.
+Informacja: Przetwarzam symbol 'D502:Diodes_SMD:D_MELF_Handsoldering'.
+Informacja: Przetwarzam symbol 'DS101:Display:WC1602A'.
+Informacja: Przetwarzam symbol 'F101:Moje:NFM_2X500p'.
+Informacja: Przetwarzam symbol 'W102:Measurement_Points:Measurement_Point_Round-TH_Big'.
+Informacja: Przetwarzam symbol 'F102:Moje:NFM_2X500p'.
+Informacja: Przetwarzam symbol 'W303:Measurement_Points:Measurement_Point_Round-TH_Big'.
+Informacja: Przetwarzam symbol 'F103:Moje:NFM_2X500p'.
+Informacja: Przetwarzam symbol 'Y101:Crystals:Crystal_SMD_HC49-SD'.
+Informacja: Przetwarzam symbol 'F501:Fuse_Holders_and_Fuses:Fuseholder_Fuse_TR5_Littlefuse-No560_No460'.
+Informacja: Przetwarzam symbol 'F601:Moje:NFM_2X500p'.
+Informacja: Przetwarzam symbol 'R104:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'F602:Moje:NFM_2X500p'.
+Informacja: Przetwarzam symbol 'Y601:Crystals:Crystal_SMD_HC49-SD'.
+Informacja: Przetwarzam symbol 'IC101:TO_SOT_Packages_SMD:SOT-23_Handsoldering'.
+Informacja: Przetwarzam symbol 'IC102:Housings_QFP:TQFP-64_14x14mm_Pitch0.8mm'.
+Informacja: Przetwarzam symbol 'IC401:Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm'.
+Informacja: Przetwarzam symbol 'IC501:Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm'.
+Informacja: Przetwarzam symbol 'IC601:Housings_QFP:LQFP-32_7x7mm_Pitch0.8mm'.
+Informacja: Przetwarzam symbol 'J601:Connectors_IDC:IDC-Header_2x03_Pitch2.54mm_Straight'.
+Informacja: Przetwarzam symbol 'JP101:Jumpers:SMT-JUMPER_3_NO_NO-SILK'.
+Informacja: Przetwarzam symbol 'P103:Connectors_IDC:IDC-Header_2x03_Pitch2.54mm_Straight'.
+Informacja: Przetwarzam symbol 'P104:Connectors_Multicomp:Multicomp_MC9A12-1034_2x05x2.54mm_Straight'.
+Informacja: Przetwarzam symbol 'P105:Connectors_Molex:Molex_KK-6410-03_03x2.54mm_Straight'.
+Informacja: Przetwarzam symbol 'P201:Connectors_Phoenix:PhoenixContact_MC-G_02x5.08mm_Angled'.
+Informacja: Przetwarzam symbol 'P203:Connectors_Phoenix:PhoenixContact_MC-G_02x5.08mm_Angled'.
+Informacja: Przetwarzam symbol 'P401:Connectors_IDC:IDC-Header_2x03_Pitch2.54mm_Straight'.
+Informacja: Przetwarzam symbol 'P501:Connectors_Molex:Molex_KK-41791-02_02x3.96mm_Straight'.
+Informacja: Przetwarzam symbol 'PS501:SCW12B-05:SCW12B05'.
+Informacja: Przetwarzam symbol 'Q101:TO_SOT_Packages_SMD:SOT-23_Handsoldering'.
+Informacja: Przetwarzam symbol 'Q102:TO_SOT_Packages_SMD:SOT-23_Handsoldering'.
+Informacja: Przetwarzam symbol 'Q103:TO_SOT_Packages_SMD:SOT-23_Handsoldering'.
+Informacja: Przetwarzam symbol 'Q105:TO_SOT_Packages_SMD:SOT-23_Handsoldering'.
+Informacja: Przetwarzam symbol 'R101:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R102:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R103:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R201:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R105:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R106:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R107:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R108:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R109:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R110:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R111:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R112:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R113:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R114:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R115:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R116:Resistor_SMD:R_1206_3216Metric'.
+Informacja: Przetwarzam symbol 'R117:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R119:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R120:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R121:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R122:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R123:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R124:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R125:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R127:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R128:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R129:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R131:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R202:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R203:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R204:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R205:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R206:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R207:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R208:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R209:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R210:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R211:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R212:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R213:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R214:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R215:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R216:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R217:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R218:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R219:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R220:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R221:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R222:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R301:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R302:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R303:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R304:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R305:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R306:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R307:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R308:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R309:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R310:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R311:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R312:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R313:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R314:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R401:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Informacja: Przetwarzam symbol 'R402:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Informacja: Przetwarzam symbol 'R403:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Informacja: Przetwarzam symbol 'R404:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Informacja: Przetwarzam symbol 'R405:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Informacja: Przetwarzam symbol 'R406:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Informacja: Przetwarzam symbol 'R407:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Informacja: Przetwarzam symbol 'R408:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Informacja: Przetwarzam symbol 'R409:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Informacja: Przetwarzam symbol 'R410:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Informacja: Przetwarzam symbol 'R411:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R412:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Informacja: Przetwarzam symbol 'R413:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R414:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Informacja: Przetwarzam symbol 'R415:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R416:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R417:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R418:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R419:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'R601:Resistors_SMD:R_1206_HandSoldering'.
+Informacja: Przetwarzam symbol 'T201:Moje_przep:SELF1408_2'.
+Informacja: Przetwarzam symbol 'T202:Moje_przep:SELF1408_2'.
+Informacja: Przetwarzam symbol 'U201:TO_SOT_Packages_THT:TO-220-5_Horizontal_StaggeredType1'.
+Dodano C506 (footprint 'Capacitors_SMD:C_1206_HandSoldering').
+Zmieniono REF** odnośników do C506.
+Zmieniono wartość C506 z C_1206_HandSoldering na 100n.
+Uaktualniono C506 przypisań symboli z  do /00000000-0000-0000-0000-0000637aceda/d5651b11-b1b9-4107-af71-9babf712cb78.
+Uaktualniono C506 właściwości.
+Połączono C506 pin 1 do +5V.
+Połączono C506 pin 2 do global_0V.
+Ostrzeżenie: Symbol D305 pin 3 nie ma przydzielonej sieci.
+Ostrzeżenie: Symbol F101 pin 4 nie ma przydzielonej sieci.
+Ostrzeżenie: Symbol F102 pin 4 nie ma przydzielonej sieci.
+Ostrzeżenie: Symbol F103 pin 4 nie ma przydzielonej sieci.
+Ostrzeżenie: Symbol F602 pin 4 nie ma przydzielonej sieci.
+Ostrzeżenie: Symbol U401 pin 8 nie ma przydzielonej sieci.
+Ostrzeżenie: Symbol U401 pin 9 nie ma przydzielonej sieci.
+Ostrzeżenie: Symbol T202 pin 0 nie ma przydzielonej sieci.
+Ostrzeżenie: Symbol T202 pin 0 nie ma przydzielonej sieci.
+Ostrzeżenie: Symbol T201 pin 0 nie ma przydzielonej sieci.
+Ostrzeżenie: Symbol T201 pin 0 nie ma przydzielonej sieci.
+Ostrzeżenie: Symbol F601 pin 4 nie ma przydzielonej sieci.
+
+
+Informacja: Ostrzeżeń w sumie: 0, błędów w sumie: 0.
